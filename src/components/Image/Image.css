@@ -1,0 +1,16 @@
+.leadgenimg{
+   width:auto;
+}
+.leadgenimg img{
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.ExtrasmallLogoImage img{
+    width: 100%;
+    vertical-align: middle;
+}
+
+.MediumCommonImage{
+    width:80%;
+}

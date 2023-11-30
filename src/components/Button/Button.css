@@ -1,0 +1,28 @@
+.leadgen-coffee-shop-btn {
+    text-align: left;
+}
+.button{
+    color: #fff;
+    padding: 8px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    line-height: 18px;
+    background: #d0ae5e;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600;
+    white-space: inherit;
+    border:none;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+.primary {
+    background: #d0ae5e;
+    border-radius: 20px;
+}
+.secondary {
+    background: #d0ae5e;
+    color: #000;
+}

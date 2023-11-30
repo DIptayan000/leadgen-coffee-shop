@@ -1,0 +1,46 @@
+.leadgen-coffee-typography-sec {
+    font-family: 'Montserrat', sans-serif ;
+    padding: 20px 0px;
+}
+
+.Typographyleft {
+    text-align:left;
+}
+
+.Typographycenter{
+    text-align:center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Typographyright{
+    text-align:right;
+}
+
+.leadgen-coffee-shop-typo-eyebrow-text{
+    color: #d0ae5e;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight:600;
+    margin-bottom: 2%;
+}
+.leadgen-coffee-shop-typo-main-text {
+    font-size: 35px;
+    line-height: 42px;
+    text-transform: uppercase;
+    font-weight:bold;
+    margin-bottom: 2%;
+    color: #707070;
+}
+.leadgen-coffee-shop-typo-para-text{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 2%;
+    color:#707070;
+}
+
+.Typographycenter .leadgen-coffee-shop-typo-main-text{color: #fff;}
+.Typographycenter .leadgen-coffee-shop-typo-para-text{ margin-bottom: 50px;}
+.Typographycenter .leadgen-coffee-shop-typo-para-text{color: #bbb5b5;}

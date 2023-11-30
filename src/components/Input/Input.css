@@ -1,0 +1,28 @@
+.leadgen-coffee-input{
+    padding: 12px 20px;
+    border: 1px solid rgba(0,0,0,.1);
+    font-size: 14px;
+    line-height: normal;
+    border-radius: 5px;
+    background-color: transparent;
+    font-weight: 500;
+    color: #707070;
+    margin: 0 0 20px 0;
+    width:100%
+}
+
+.leadgen-coffee-submit{
+    background: #d0ae5e;
+    display: inline-block;
+    border-radius: 4px;
+    width: auto;
+    font-weight: 600;
+    white-space: inherit;
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid transparent;
+    font-size: 13px;
+    padding: 11px 30px;
+    line-height: 18px;
+    text-transform: uppercase;
+}

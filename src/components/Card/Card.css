@@ -1,0 +1,137 @@
+.leadgen-coffee-card-sec{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif ;
+}
+
+.Vertical {
+    text-align: center;
+}
+.Vertical .leadgen-coffee-card-vertical {
+    /* width: 33.33333333%; */
+    box-sizing: border-box;
+    font-size: 13px;
+    color: #707070;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    font-family: 'Montserrat', sans-serif ;
+}
+
+.Vertical .card-img-sec {
+    background: #a1a1a1 none repeat scroll 0 0;
+    overflow: hidden;
+}
+
+.Vertical img.card-img-top {
+    opacity: 1;
+    transition: all 0.3s ease 0s;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.Vertical h5.card-heading-eyebrow {
+    color: #d0ae5e;
+    text-align: left;
+    font-size: 16px;
+    line-height: 18px;
+    margin: 10px 0px 0px 0px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.Vertical h1.card-heading-eyebrow {
+    text-align: left;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight:600;
+    padding:10px 0px;
+    margin:0px
+}
+
+.Vertical p.card-text {
+    font-size: 12px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.Vertical .leadgen-card-btn {
+    background: #d0ae5e;
+    border-radius: 20px;
+    color: #fff;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.Vertical .leadgen-coffee-cta-link {
+    text-align: left;
+    margin: 20px 0px;
+}
+
+.Horizontal .leadgen-coffee-card-horizontal .row {
+    display: flex;
+}
+
+.Horizontal .leadgen-coffee-card-horizontal .col-sm-6 {
+    overflow: hidden;
+    width: 50%;
+    padding:0px;
+}
+
+.Horizontal .leadgen-coffee-card-horizontal img.card-img-top {
+    opacity: 1;
+    transition: all 0.3s ease 0s;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.Horizontal .card-heading-horizontal-eyebrow {
+    color: #d0ae5e;
+    text-align: left;
+    font-size: 24px;
+    line-height: 30px;
+    margin: 20px 0px 0px 0px;
+}
+
+.Horizontal .card-heading-horizontal-heading {
+    text-align: left;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 500;
+    padding: 15px 0px 10px 0px;
+}
+
+.Horizontal  .card-text-horizontal{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+    color: #707070;
+}
+
+.hori-left{
+    background-color: #fbf9f3;
+}
+
+.hori-left-inner {
+    overflow: hidden;
+    padding: 8%;
+}
+
+.Horizontal .leadgen-hori-card-btn {
+    background: #d0ae5e;
+    border-radius: 20px;
+    color: #fff;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    font-size: 10px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+.leadgen-coffee-card-sec.Horizontal {
+    padding-bottom: 50px;
+}

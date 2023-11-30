@@ -1,0 +1,19 @@
+.Copyright .leadgen-coffee-footer-para{
+    font-size: 12px;
+    line-height: 20px;
+    color: #707070;
+    text-transform :uppercase;
+    text-align: right;
+}
+
+.Socialmedia ul.nav{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    text-align: right;
+}
+
+.Socialmedia li.nav-item {
+    padding: 0px 10px;
+}

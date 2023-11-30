@@ -1,0 +1,29 @@
+.leadgen-coffee-shop-heading{
+    color: #d0ae5e;
+    line-height: 24px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Xsmall{
+    font-size: 12px;
+    text-transform:uppercase;
+}
+
+.small{
+    font-size: 14px;
+    text-transform:uppercase;
+}
+
+.large{
+    font-size: 21px;
+    line-height: 25px;
+    color: #282828;
+    font-weight: 500;
+}
+
+.Xlarge{
+    font-size: 18px;
+    text-transform:uppercase;
+    padding: 20px 0px;
+}

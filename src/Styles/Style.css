@@ -1,0 +1,66 @@
+.leadgen-coffee-shop-header-main{
+    padding: 11px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    background: #000000;
+}
+
+.leadgen-nav-link li.nav-item{
+    padding: 0px 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+ul.nav.leadgen-nav-link {
+    align-items: center;
+}
+
+/* Home Main Section Css */
+.leadgen-coffee-shop-main-home-sec{
+    background: linear-gradient(rgba(35,31,41,0.7), rgba(35,31,41,0.7)), 
+    url("../assests/images/hero-bg40.jpg");
+}
+
+.leadgen-coffee-shop-testimonial-chef {
+    padding: 50px 0px;
+}
+
+.leadgen-coffee-shop-card {
+    background-color: #fbf9f3;
+    padding: 50px 0px;
+}
+
+.leadgen-coffee-shop-about-sec .img-sec{
+    overflow: hidden;
+}
+
+
+.leadgen-coffee-shop-about-sec {
+    background-image:  url("../assests/images/hero-bg17.jpg");;
+    padding: 50px 0px;
+}
+
+.leadgen-coffee-shop-card{
+    background: linear-gradient(rgba(35,31,41,0.7), rgba(35,31,41,0.7)), 
+    url("../assests/images/hero-bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.leadgen-coffee-shop-about-sec .typo-sec{
+    padding: 3%;
+}
+
+.leadgen-coffee-shop-testimonial-chef {
+    background: #242526;
+}
+
+.leadgen-coffee-shop-footer-main{
+    background: #f7f7f7;
+    padding:50px 0px;
+}
+
+.leadgen-coffee-shop-form {
+    background: #fbf9f3;
+    padding: 50px 0px;
+}
